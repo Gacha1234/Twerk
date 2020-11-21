@@ -1,1 +1,3 @@
 # Twerk
+
+Twerk Finance is a NFT-based platform targetting the NSFW and Adult Entertainment industry. Utilizing a dual token ecosystem, users will be able to farm unique, unforgetable gifs, stills, and even videos as we score exclusive deals with adult entertainers. Our mission is to protect the intellectual property of artists by providing a platform of scarcity and exclusivity, and provide users with an abundance of unique NFTs they can then trade on the open market. When a perticular entertainer signs on board, they will first create unique stills. Once our community mints their NFTs and begin trading them, this will allow us to leverage the newfound value to then collaborate and create gifs.
